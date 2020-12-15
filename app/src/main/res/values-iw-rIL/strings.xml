@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quarantine circle</string>
+    <string name="Cancel">ביטול</string>
+    <string name="km">ק\"מ</string>
+    <string name="meters">מטרים</string>
+    <string name="meters_away_from_home">מטרים מהבית שהוגדר</string>
+    <string name="you_are">אתה</string>
+    <string name="good_job">עבודה טובה</string>
+    <string name="click_marker_to_set">לחץ כאן לקביעת מיקום</string>
+    <string name="set_new_home">קבע מיקום חדש</string>
+    <string name="search">חיפוש או הקלדה על המפה</string>
+    <string name="please_go_into_quarantine_circle">אנא חזור אל התחום המותר</string>
+    <string name="gal_reshef">גל רשף</string>
+    <string name="selected_location">מיקום נבחר</string>
+    <string name="_100m">100 מטר</string>
+    <string name="stay_home_stay_safe">הישארו בבית השארו בטוחים</string>
+    <string name="these_days_with_covid_19">בימים אלו עם הקורונה אי אפשר לדעת מה יקרה מחר זאת הסיבה שיצרתי את האפליקציה בעזרתה ניתן לבדוק בקלות האם אנחנו עומדים בשמירת המרחק המותר מהבית</string>
+    <string name="meters_away_from_quarantine_circle">מטרים מאזור הסגר המותר</string>
+</resources>
