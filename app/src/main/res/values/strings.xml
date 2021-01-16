@@ -5,7 +5,7 @@
   <string name="_100m">100M</string>
   <string name="selected_location">Selected location</string>
   <string name="km">KM</string>
-  <string name="meters">M</string>
+  <string name="m">M</string>
   <string name="linkedin_icon" translatable="false">LinkedIn icon</string>
   <string name="gal_reshef">Gal Reshef</string>
   <string name="none" translatable="false" />
@@ -13,11 +13,9 @@
   <string name="google_play" translatable="false">Google™ Play</string>
   <string name="github_icon" translatable="false">Github icon</string>
   <string name="created_by" translatable="false">Created by</string>
-  <string name="meters_away_from_home">Meters away from home</string>
-  <string name="meters_away_from_quarantine_circle">Meters away from quarantine circle</string>
+  <string name="away_from_quarantine_circle">away from quarantine circle</string>
   <string name="you_are">You are</string>
-  <string name="good_job">good job</string>
-  <string name="please_go_into_quarantine_circle">please go into quarantine circle</string>
+  <string name="good_job">Good job!</string>
   <string name="search">Search or select on map</string>
   <string name="set_new_home">Set New home</string>
   <string name="click_marker_to_set">Click here to set</string>
@@ -217,4 +215,10 @@
   <string name="developer_logo" translatable="false">Developer Logo</string>
   <string name="covid_icon" translatable="false">Covid icon</string>
   <string name="these_days_with_covid_19">These days with Covid-19 We can\'t know what happens tomorrow That is why I created this app With it you can easily check how far away from home you can travel</string>
+  <string name="you_are_within_the_quarantine">You are within the quarantine circle</string>
+  <string name="please_go_back">Please go back!</string>
+  <string name="meters">meters</string>
+  <string name="add_distance">Add distance</string>
+  <string name="subtract_distance">Subtract distance</string>
+  <string name="distance_allowed">Distance allowed</string>
 </resources>
