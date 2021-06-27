@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686813062309",
+    "project_id": "quarantine-circle-2020",
+    "storage_bucket": "quarantine-circle-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686813062309:android:b7fb57a2f1618b6b0d594c",
+        "android_client_info": {
+          "package_name": "com.thegalos.quarantinecircle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686813062309-tna2j8qptuu24i22u8hdo1iivgm0e5sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKI6W0rmzLlGOhj7vLy60fd_zu0SydAs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686813062309-tna2j8qptuu24i22u8hdo1iivgm0e5sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

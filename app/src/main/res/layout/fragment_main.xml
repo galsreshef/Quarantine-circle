@@ -76,7 +76,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:minEms="5"
-        android:text="@string/_100m"
+        android:text="@string/_500m"
         app:layout_constraintBottom_toBottomOf="@+id/ivAdd"
         app:layout_constraintStart_toEndOf="@+id/ivSub"
         app:layout_constraintTop_toTopOf="@+id/ivAdd" />

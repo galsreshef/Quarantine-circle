@@ -1,6 +1,5 @@
 package com.thegalos.quarantinecircle.fragments;
 
-import android.content.res.Configuration;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -26,9 +25,6 @@ public class Splash extends Fragment {
 
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
-        if ((getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK) == Configuration.UI_MODE_NIGHT_YES) {
-            view.findViewById(R.id.ivDeveloperLogo).setAlpha(0.8f);
-        }
         MotionLayout motionLayout = view.findViewById(R.id.motionLayout);
         motionLayout.addTransitionListener(new MotionLayout.TransitionListener() {
             @Override

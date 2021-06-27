@@ -24,17 +24,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ivCovid5" />
 
-    <ImageView
-        android:id="@+id/ivDeveloperLogo"
-        android:layout_width="120dp"
-        android:layout_height="36dp"
-        android:layout_margin="10dp"
-        android:alpha="0.5"
-        android:contentDescription="@string/developer_logo"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/galos_logo" />
-
     <TextView
         android:id="@+id/tvAppName"
         android:layout_width="wrap_content"
