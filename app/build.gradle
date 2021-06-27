@@ -5,14 +5,7 @@ plugins {
 }
 
 android {
-    signingConfigs {
-        config {
-            storeFile file('/Users/galreshef/Downloads/Study/Projects/Android/_Android_Key_Store/key0_14.03.20.jks')
-            storePassword 'Gal@gal23'
-            keyAlias 'key0'
-            keyPassword 'Gal@231290'
-        }
-    }
+
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
 
@@ -22,7 +15,6 @@ android {
         targetSdkVersion 30
         versionCode 9
         versionName "1.2"
-
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -30,7 +22,6 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.config
             debuggable false
         }
     }
@@ -52,8 +43,6 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
-
-
 
     implementation 'pub.devrel:easypermissions:3.0.0'
     implementation 'com.google.android.libraries.places:places:2.4.0'
